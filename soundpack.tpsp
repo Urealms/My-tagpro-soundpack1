@@ -11,7 +11,7 @@
     
         "drop"          : {"source" : "https://github.com/hjalpa/TagPro-SoundPacks/raw/master/SoundPacks/defaultremastered/drop.mp3",
                            "volume" : 1 },
-        "teleport"      : {"source" : "https://github.com/Urealms/My-tagpro-soundpack1/raw/refs/heads/main/reaverkill1.mp3",
+        "teleport"      : {"source" : "https://github.com/hjalpa/TagPro-SoundPacks/raw/master/SoundPacks/defaultremastered/teleport.mp3",
                            "volume" : 1 },
         "pop"           : {"source" : "https://github.com/Urealms/My-tagpro-soundpack1/raw/refs/heads/main/pop.mp3",
                            "volume" : 1 },
@@ -50,4 +50,3 @@
     
     }
 }
-

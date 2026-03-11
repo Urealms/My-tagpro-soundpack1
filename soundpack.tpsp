@@ -13,7 +13,7 @@
                            "volume" : 1 },
         "teleport"      : {"source" : "https://github.com/Urealms/My-tagpro-soundpack1/raw/refs/heads/main/reaverkill1.mp3",
                            "volume" : 1 },
-        "pop"           : {"source" : "https://github.com/Urealms/My-tagpro-soundpack1/blob/main/reaverkill1.mp3",
+        "pop"           : {"source" : "https://github.com/Urealms/My-tagpro-soundpack1/raw/refs/heads/main/soundpack.tpsp",
                            "volume" : 1 },
         "friendlyalert" : {"source" : "https://github.com/hjalpa/TagPro-SoundPacks/raw/master/SoundPacks/defaultremastered/friendlyalert.mp3",
                            "volume" : 1 },

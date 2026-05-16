@@ -13,7 +13,7 @@
                            "volume" : 1 },
         "teleport"      : {"source" : "https://github.com/hjalpa/TagPro-SoundPacks/raw/master/SoundPacks/defaultremastered/teleport.mp3",
                            "volume" : 1 },
-        "pop"           : {"source" : "https://github.com/Urealms/My-tagpro-soundpack1/blob/f82d5c71b6c28790860171ce3e9a6ca761e2f209/pop.mp3",
+        "pop"           : {"source" : "https://raw.githubusercontent.com/Urealms/My-tagpro-soundpack1/c4ecc7d457e34d0f0d7eda4be9874e4da0a3c4d7/pop.mp3",
                            "volume" : 1 },
         "friendlyalert" : {"source" : "https://github.com/hjalpa/TagPro-SoundPacks/raw/master/SoundPacks/defaultremastered/friendlyalert.mp3",
                            "volume" : 1 },
